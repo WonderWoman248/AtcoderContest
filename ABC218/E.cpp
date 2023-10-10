@@ -10,6 +10,7 @@ void checkOdd(ll n){
         cout << "No" << '\n';
     }
 }
+
 int main(){
     ll t=1;
     cin >> t;
